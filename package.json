@@ -1,0 +1,23 @@
+{
+  "name": "express-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/only1finesse/express-wn-2-2.git"
+  },
+  "author": "Stanley Omotuyole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/only1finesse/express-wn-2-2/issues"
+  },
+  "homepage": "https://github.com/only1finesse/express-wn-2-2#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
